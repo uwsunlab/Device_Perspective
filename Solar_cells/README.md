@@ -1,0 +1,2 @@
+# Solar cells
+This repository contains Python code for lifetime prediction of solar cells using the data base from the paper "Stability follows efficiency based on the analysis of a large perovskite solar cells ageing dataset". The data base inside the file "20230303_mySeriesDrop_savgol.npy" is already normalized and smoothed, which is obtained by running "20230816_degradation_analysis_revision_11_cleaned.ipynb" in the public GitHub repository https://github.com/noortitan/PvkSOM.
